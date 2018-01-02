@@ -1,5 +1,7 @@
 # React Native - Cars Store
 
+This is a React Native application that runs on an iOS / Xcode simulator or can be installed on an iPhone and run while connected to a Mac. The application is a "cars" storefront that connects to Stripe to complete a charge / purchase of a vehicle and records the purchase transactions. The app also makes use of modern features such as Voice guided Purchasing instructions as well as Speech Recognition and Natural Language Understanding (using IBM Bluemix) while using the search to locate specific vehicles.
+
 ### App Setup - App only works on iOS for now
 
 #### Node, Watchman
