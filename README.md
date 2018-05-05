@@ -31,7 +31,9 @@ This is a React Native application that runs on an iOS / Xcode simulator or can 
 * Text-to-Speech:
 	- TTS_Username, TTS_Password
 
-##### Download and install Xcode from Mac App Store (this will take at least an hour so you will have time to go for lunch)
+##### Download and install Xcode 9 - https://download.developer.apple.com/Developer_Tools/Xcode_9/Xcode_9.xip
+
+
 
 ##### Install Cocoa Pods - on your computer
 - sudo gem install cocoapods
